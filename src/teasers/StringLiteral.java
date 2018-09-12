@@ -1,5 +1,10 @@
 package teasers;
 
+/**
+ * Guess the output of this program. Also try to find out the reasons.
+ * @author Sabir
+ *
+ */
 public class StringLiteral {
 	public static void main(String [] args) {
 		String str1  = "string";
